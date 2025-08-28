@@ -4,9 +4,9 @@ Adds is_pii column for classification.
 Ensures no standalone false positives like single email, single name, city, etc.
 
 Files
-detector_Hardikkumar_Patel.py → Main script
-redacted_output_Hardikkumar_Patel.csv → Output file
+detector_Samarth_K.py → Main script
+redacted_output_Samarth_K.csv → Output file
 iscp_pii_dataset.csv → Input dataset
 
 Usage
-python3 detector_Hardikkumar_Patel.py iscp_pii_dataset.csv
+python3 detector_Samarth_K.py iscp_pii_dataset.csv
