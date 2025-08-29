@@ -6,8 +6,8 @@ Detect and redact Personally Identifiable Information (PII) in JSON data stored 
   
 ## Files
 - `detector_Samarth_K.py` → Main script
-- `redacted_output_Samarth_K.csv` → Output file
 - `iscp_pii_dataset.csv` → Input dataset
+-  `redacted_output_Samarth_K.csv` → Output file
 
 ## Usage
 ```bash
